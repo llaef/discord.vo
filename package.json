@@ -11,5 +11,6 @@
     "@discordjs/voice": "^0.16.1",
     "sodium": "^3.0.2",
     "tweetnacl": "^1.0.3"
+    "express": "^4.19.2"
   }
 }
