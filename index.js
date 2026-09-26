@@ -22,7 +22,7 @@ const client = new Client({
 
 client.once('ready', () => {
     console.log(`Logged in as ${client.user.tag}!`);
- const channelId = '123456789012345678'; 
+ const channelId = '1553108072510259330'; 
     const channel = client.channels.cache.get(channelId);
 
     if (channel) {
